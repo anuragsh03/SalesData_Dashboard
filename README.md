@@ -78,8 +78,4 @@ This mimics real corporate cycles where dashboards evolve based on stakeholder n
 
 For questions, connect with me at: [anuragsharmagwl2003@.com]
 
----
 
-## ✅ License
-
-This project is for educational purposes and inspired by Codebasics’ Sales Insights tutorial series.
